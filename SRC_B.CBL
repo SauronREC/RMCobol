@@ -1,0 +1,11 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SRC-AMP-IO.
+       
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       
+       PROCEDURE DIVISION.
+       MAIN-PROCEDURE.
+
+            STOP RUN.
+       END PROGRAM SRC-AMP-IO.
